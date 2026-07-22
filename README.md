@@ -93,14 +93,7 @@ Most days that means shipping backend systems, automation pipelines, and RAG too
 
 </details>
 
-<br>
 
-## 🏆 Achievements
-
-- 🥇 **VITISH Hackathon — 1st Place** (2024)
-- 📜 **Programming in C — IIT Bombay / NPTEL Certification** (2024)
-
-<br>
 
 <details>
 <summary><b>💬 Click for a random dev quote</b></summary>
